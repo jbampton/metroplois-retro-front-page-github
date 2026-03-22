@@ -31,4 +31,8 @@
       </td>
     </tr>
   </table>
+  <hr>
+  <p>Add a ⭐ to <a href="https://github.com/metropolis-retro/.github">this repo</a> and you will be auto-invited to join the Metropolis Retro GitHub Organization ⏩ 🏢
+  </p>
+  <hr>
 </div>
