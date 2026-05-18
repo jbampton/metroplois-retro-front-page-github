@@ -91,19 +91,25 @@
 </div>
 
 <div align="center">
-  <h3>Breakfast Creek Hotel third event beers in play</h3>
+  <h3>Breakfast Creek Hotel 17th event: <strong>Jugs of Beer</strong> in play 🍻</h3>
   <p>
     <a href="#">
-      <img src="assets/third-event-beers-in-play.jpg" alt="Breakfast Creek Hotel third event beers in play">
+      <img src="assets/event-seventeen-jugs-of-beer.jpg" alt="Breakfast Creek Hotel seventeenth event Juge of Beer in play">
     </a>
   </p>
-  <h3>Breakfast Creek Hotel seventh event arrived early to setup</h3>
+  <h3>Breakfast Creek Hotel third event: <strong>Beers</strong> in play 🍺</h3>
+  <p>
+    <a href="#">
+      <img src="assets/third-event-beers-in-play.jpg" alt="Breakfast Creek Hotel third event Beers in play">
+    </a>
+  </p>
+  <h3>Breakfast Creek Hotel seventh event arrived early to setup 🚧</h3>
   <p>
     <a href="#">
       <img src="assets/breakfast-creek-hotel-seventh-event.jpg" alt="Breakfast Creek Hotel seventh event arrived early to setup">
     </a>
   </p>
-  <h3>We support The Big Issue</h3>
+  <h3>We support The Big Issue 🇦🇺</h3>
   <p>
     <a href="https://thebigissue.org.au/">
       <img src="assets/the-big-issue.jpg" alt="We support The Big Issue">
