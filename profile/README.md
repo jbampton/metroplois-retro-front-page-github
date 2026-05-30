@@ -1,8 +1,7 @@
 <div align="center">
   <h1>Welcome to the Official <code>Metropolis Retro</code> World Chess Team and Games Club 🀄 🃏 ♟️ 🎲 🕹️</h1>
   <p>
-    <strong>Metropolis Retro</strong> is a team of cutting-edge chess and games players who also love open-source on GitHub. <br>
-    We’re here to celebrate global games, with a vibrant, tech-loving community.</p>
+    <strong>Metropolis Retro</strong> is a team of cutting-edge chess and games players who also love open-source on GitHub. We’re here to celebrate global games, with a vibrant, tech-loving community.</p>
   <p>We ran 11 events at the <a href="https://www.breakfastcreekhotel.com/">Breakfast Creek Hotel</a> from October 2025 to January 2026 mainly on Monday nights.
     The 20th event was held on Monday the 25th of May from 5pm until 6:30pm at the world famous Breakfast Creek Hotel 😎 🍻
   </p>
