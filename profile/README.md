@@ -93,7 +93,7 @@
   <h3>Breakfast Creek Hotel 17th event: <strong>Jugs of Beer</strong> in play 🍻</h3>
   <p>
     <a href="#">
-      <img src="assets/event-seventeen-jugs-of-beer.jpg" alt="Breakfast Creek Hotel seventeenth event Juge of Beer in play">
+      <img src="assets/event-seventeen-jugs-of-beer.jpg" alt="Breakfast Creek Hotel seventeenth event Jugs of Beer in play">
     </a>
   </p>
   <h3>Breakfast Creek Hotel third event: <strong>Beers</strong> in play 🍺</h3>
