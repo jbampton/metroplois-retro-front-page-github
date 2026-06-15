@@ -3,9 +3,9 @@
   <p>
     <strong>Metropolis Retro</strong> is a team of cutting-edge chess and games players who also love open-source on GitHub. We’re here to celebrate global games, with a vibrant, tech-loving community.</p>
   <p>We ran 11 events at the <a href="https://www.breakfastcreekhotel.com/">Breakfast Creek Hotel</a> from October 2025 to January 2026 mainly on Monday nights.
-    The 21st event was held on Monday the 1st of June from 5:30pm until 7pm at the world famous Breakfast Creek Hotel 😎 🍻
+    The 22nd event was held on Monday the 8th of June from 5:30pm until 7pm at the world famous Breakfast Creek Hotel 😎 🍻
   </p>
-  <h2>The next event is on Monday the 8th of June from 5:30pm until 7pm at the Breakfast Creek Hotel. Note the new start time of 5:30pm 🎉</h2>
+  <h2>The next event is on Monday the 15th of June from 5:30pm until 7pm at the Breakfast Creek Hotel. Note the new start time of 5:30pm 🎉</h2>
 </div>
 
 <hr>
